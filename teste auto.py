@@ -12,8 +12,8 @@ from threading import Thread
 # CONFIGURAÇÕES
 # =========================
 URL = "https://abcbet94.com/?id=676259993"
-EMAIL = "arrozempo@gmail.com"
-SENHA = "t3CYp15"
+EMAIL = ""
+SENHA = ""
 
 COORD_INICIAL_X = 1099
 COORD_INICIAL_Y = 925
